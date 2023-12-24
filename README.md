@@ -35,7 +35,8 @@ The implementation uses Alpha-Beta Pruning to efficiently find the best move for
 
 ## Author
 
-Aravindh Gopalsamy
+- Aravindh Gopalsamy
+- gopal98aravindh@gmail.com
 
 ## License
 
